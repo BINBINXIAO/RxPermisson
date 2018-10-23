@@ -13,14 +13,6 @@ import java.util.Map;
 
 import io.reactivex.subjects.PublishSubject;
 
-/**
- * author：luck
- * project：PictureSelector
- * package：com.luck.picture.lib.permissions
- * email：893855882@qq.com
- * data：2017/5/31
- */
-
 public class RxPermissionsFragment extends Fragment {
 
     private static final int PERMISSIONS_REQUEST_CODE = 42;
